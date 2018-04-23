@@ -1,2 +1,0 @@
-# Graphs
-Smith Analysis Graphs
